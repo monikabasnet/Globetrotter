@@ -82,7 +82,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](welcomenepal.netli
 
 ### Walkthrough Video
 
-**Walkthrough video:** [Globetrotter Walkthrough](ADD_LOOM_LINK_HERE)
+**Walkthrough video:** [Globetrotter Walkthrough](https://www.loom.com/share/a5477fe0609b4da1b988ff86d006c824)
 
 *Please record a video walkthrough showing all pages of your site, the responsive navigation, and mobile view.*
 
