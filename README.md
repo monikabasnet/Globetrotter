@@ -4,7 +4,8 @@ Submitted by: **Monika Basnet**
 
 Estimated time spent: **12** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](welcomenepal.netlify.app)
+Deployed Application (optional): [Globetrotter Deployed Site](welcomenepal.netlify.app) (welcomenepal.netlify.app)
+
 
 ### Application Features
 
