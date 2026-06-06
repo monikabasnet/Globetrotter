@@ -4,6 +4,7 @@ Submitted by: **Monika Basnet**
 
 Estimated time spent: **12** hours spent in total
 
+Note : If the link doesnot work ( welcomenepal.netlify.app) is the link to deployed website.
 Deployed Application (optional): [Globetrotter Deployed Site](welcomenepal.netlify.app) (welcomenepal.netlify.app)
 
 
